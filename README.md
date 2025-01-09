@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premkumar163&label=Profile%20views&color=0e75b6&style=flat" alt="premkumar163" /> </p>
 
-- 🌱 I’m currently learning **JAVA, DAS in JAVA**
+- 🌱 I’m currently learning **JAVA, DSA Using JAVA**
 
 - 📫 How to reach me **premkumar829107@gmail.com**
 
